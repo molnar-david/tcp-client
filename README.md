@@ -1,6 +1,6 @@
 # tcp-client
 
-A very basic TCP client to connect that can connect and send messages to a server, by default to localhost. This can be changed by changing that ipAddress variable.  
+A very basic TCP client that can connect and send messages to a server, by default to localhost. This can be changed by changing the ipAddress variable.  
 Can be used to connect to my [TCP client](https://github.com/molnar-david/tcp-server/) instead of PuTTY.
 
 ## How to use:
