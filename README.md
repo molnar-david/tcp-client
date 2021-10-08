@@ -1,6 +1,7 @@
 # tcp-client
 
-A very basic TCP client that can connect and send messages to a server, by default to localhost. This can be changed by changing the ipAddress variable. Implemented using [Windows Sockets 2](https://docs.microsoft.com/en-us/windows/win32/winsock/windows-sockets-start-page-2).  
+A very basic TCP client that can connect and send messages to a server, by default to localhost. This can be changed by changing the ipAddress variable. Implemented using [Windows Sockets 2](https://docs.microsoft.com/en-us/windows/win32/winsock/windows-sockets-start-page-2).
+
 Can be used to connect to my [TCP server](https://github.com/molnar-david/tcp-server/) instead of PuTTY.
 
 ## How to use:
