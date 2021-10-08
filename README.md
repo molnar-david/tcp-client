@@ -6,7 +6,7 @@ Can be used to connect to my [TCP server](https://github.com/molnar-david/tcp-se
 ## How to use:
 1. Start the TCP server
 2. Start the TCP client
-3. Send whatever message you want to the server. If you're connected to my server, it will echo it back for you
+3. Send whatever message you want to the server. If you're connected to my server above, it will echo it back for you
 4. Send an empty string to close the session
 
 *Made with the help of the [Networking in C++](https://www.youtube.com/playlist?list=PLZo2FfoMkJeEogzRXEJeTb3xpA2RAzwCZ) YouTube series by [Sloan Kelly](https://www.youtube.com/c/sloankelly)*  
